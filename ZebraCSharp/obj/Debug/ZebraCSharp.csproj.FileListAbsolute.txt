@@ -6,3 +6,6 @@ C:\Users\Admin\Desktop\ZebraTechnologies\ZebraCSharp\obj\Debug\ZebraCSharp.exe
 C:\Users\Admin\Desktop\ZebraTechnologies\ZebraCSharp\obj\Debug\ZebraCSharp.pdb
 C:\Users\Admin\Desktop\ZebraTechnologies\ZebraCSharp\bin\Debug\nunit.framework.dll
 C:\Users\Admin\Desktop\ZebraTechnologies\ZebraCSharp\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\ZebraSharp\ZebraCSharp\bin\Debug\ZebraCSharp.exe.config
+C:\Users\Admin\Desktop\ZebraSharp\ZebraCSharp\obj\Debug\ZebraCSharp.exe
+C:\Users\Admin\Desktop\ZebraSharp\ZebraCSharp\obj\Debug\ZebraCSharp.pdb
